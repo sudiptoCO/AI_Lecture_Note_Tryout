@@ -4,7 +4,7 @@ Welcome to the AI Lecture Transcriber GitHub repository! This project aims to pr
 
 ## Features
 
-- **Subject Selection**: Choose from Physics, Chemistry, Mathematics, and Data Science & Statistics.
+- **Subject Selection**: Mathematics, and Data Science & Statistics.
 - **YouTube Video Link Input**: Input the YouTube video link for which you want to generate detailed notes.
 - **Transcript Extraction**: Extract transcript from the provided YouTube video link.
 - **Detailed Notes Generation**: Generate detailed notes based on the extracted transcript.
