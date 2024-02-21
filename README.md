@@ -1,4 +1,4 @@
-# AI Lecture Transcriber: YouTube to Notes Converter
+# Note generator
 
 Welcome to the AI Lecture Transcriber GitHub repository! This project aims to provide detailed notes based on YouTube video transcripts across various subjects including Physics, Chemistry, Mathematics, and Data Science & Statistics. With the power of AI, you can now convert video transcripts into comprehensive study materials.
 
