@@ -29,21 +29,3 @@ Welcome to the AI Lecture Transcriber GitHub repository! This project aims to pr
 
 You can install these requirements using the provided `requirements.txt` file:
 
-```bash
-pip install -r requirements.txt
-```
-
-## About the Author
-
-**Deependra Verma** is a Data Science enthusiast with a passion for building AI-powered applications. With a strong background in mathematics and statistics, Deependra aims to leverage the latest technologies to solve real-world problems. Connect with Deependra on [LinkedIn](linkedin.com/in/deependra-verma-data-science) and check out his portfolio on [Netlify](https://deependradatascience-productportfolio.netlify.app/).
-
-## Contact Information
-
-- **Name**: Deependra Verma
-- **Email**: deependra.verma00@gmail.com
-- **GitHub**: [DeependraVerma](https://github.com/DeependraVerma)
-- **GitHub Repo**: [AI-Lecture-Transcriber-YouTube-to-Notes-Converter](https://github.com/DeependraVerma/AI-Lecture-Transcriber-YouTube-to-Notes-Converter)
-
-Feel free to reach out to Deependra for any inquiries or collaborations!
-
-**Note**: This project is for educational purposes only and does not guarantee the accuracy or completeness of the generated notes. Always cross-check with reliable sources for critical information.
